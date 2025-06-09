@@ -7,4 +7,5 @@ void manin() {
 	cout<<"hey soso";
 	cout << "the commit will be on the branch testing";
 	cout << "second commit in branch testing";
+	cout << "new line in testing master";
 }
