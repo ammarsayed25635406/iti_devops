@@ -3,4 +3,4 @@
 using namespace std;
 void manin() {
 	cout << "non";
-}"hi lolo"
+}
